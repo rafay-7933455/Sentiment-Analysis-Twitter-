@@ -12,7 +12,7 @@ A lot of people are inclined towards __Data Science__ these days and so am I. Ho
 
 Everyone is in a race of chosing the best profession in their respective ways. For me, I chose the Data Science Profession because this is the one profession that seems to be my own. In short, my interests and abilities incline in the favour of this Field of Data Science.
 
-##### Motivation Of Doing Data Analysis On This Specific DataSet:
+##### __Motivation Of Doing Data Analysis On This Specific DataSet:__
 
 These days many companies, firms, and organiztions are working on increasing the customer satisfaction level. An important factor that plays a decisive role in this regards is to get the sentiment of the customer / client including what he/she wants to ask, what is the customer's / client's tone, etc. Without knowledge of the customer's / client's sentiment, it becomes very difficult for any company, firm, organization, etc to answer correctly.
 
