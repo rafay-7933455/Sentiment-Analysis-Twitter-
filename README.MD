@@ -1,6 +1,6 @@
 ##### MOTIVATION FOR CHOOSING THE DATA SCIENCE:
-
-    ###### A lot of people are inclined towards__Data Science__ these days and so am I. However, my reason is different. I am actually a___Mathematician___ by brain. In addition, I chose___Computer Science___ as my__Profession__ which is a general field consisting of a lot of sub-emerging fields:
+    
+A lot of people are inclined towards__Data Science__ these days and so am I. However, my reason is different. I am actually a___Mathematician___ by brain. In addition, I chose___Computer Science___ as my__Profession__ which is a general field consisting of a lot of sub-emerging fields:
 
 * Data Science
 * Cyber Security
@@ -10,17 +10,17 @@
 * Web Development
 * And etc
 
-    ###### Everyone is in a race of chosing the best profession in their respective ways. For me, I chose the Data Science Profession because this is the one profession that seems to be my own. In short, my interests and abilities incline in the favour of this Field of Data Science.
+Everyone is in a race of chosing the best profession in their respective ways. For me, I chose the Data Science Profession because this is the one profession that seems to be my own. In short, my interests and abilities incline in the favour of this Field of Data Science.
 
 ##### Motivation Of Doing Data Analysis On This Specific DataSet:
 
-    ###### These days many companies, firms, and organiztions are working on increasing the customer satisfaction level. An important factor that plays a decisive role in this regards is to get the sentiment of the customer / client including what he/she wants to ask, what is the customer's / client's tone, etc. Without knowledge of the customer's / client's sentiment, it becomes very difficult for any company, firm, organization, etc to answer correctly.
+These days many companies, firms, and organiztions are working on increasing the customer satisfaction level. An important factor that plays a decisive role in this regards is to get the sentiment of the customer / client including what he/she wants to ask, what is the customer's / client's tone, etc. Without knowledge of the customer's / client's sentiment, it becomes very difficult for any company, firm, organization, etc to answer correctly.
 
-    ###### To solve this problem, a very fine method that can be applied is to make a prediction model. That's what I did. I made two Prediction Models with different accuracies. They can predict the sentiment of a person who posted something on Twitter based on the DataSet: https://www.kaggle.com/datasets/nursyahrina/chat-sentiment-dataset (URL).
+To solve this problem, a very fine method that can be applied is to make a prediction model. That's what I did. I made two Prediction Models with different accuracies. They can predict the sentiment of a person who posted something on Twitter based on the DataSet: https://www.kaggle.com/datasets/nursyahrina/chat-sentiment-dataset (URL).
 
 ##### Complete Description About The Project Work-Flow
 
-    ###### The DataSet  used for__Data Analysis__ here is extracted from__Twitter__ and is present at this_URL_ : https://www.kaggle.com/datasets/nursyahrina/chat-sentiment-dataset .
+The DataSet  used for__Data Analysis__ here is extracted from__Twitter__ and is present at this_URL_ : https://www.kaggle.com/datasets/nursyahrina/chat-sentiment-dataset .
 
 This DataSet Contained 4 Attributes (i.e Columns):
 
