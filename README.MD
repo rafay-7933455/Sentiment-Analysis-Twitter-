@@ -1,6 +1,6 @@
 ##### MOTIVATION FOR CHOOSING THE DATA SCIENCE:
     
-A lot of people are inclined towards__Data Science__ these days and so am I. However, my reason is different. I am actually a___Mathematician___ by brain. In addition, I chose___Computer Science___ as my__Profession__ which is a general field consisting of a lot of sub-emerging fields:
+A lot of people are inclined towards __Data Science__ these days and so am I. However, my reason is different. I am actually a___Mathematician___ by brain. In addition, I chose ___Computer Science___ as my __Profession__ which is a general field consisting of a lot of sub-emerging fields:
 
 * Data Science
 * Cyber Security
@@ -20,7 +20,7 @@ To solve this problem, a very fine method that can be applied is to make a predi
 
 ##### Complete Description About The Project Work-Flow
 
-The DataSet  used for__Data Analysis__ here is extracted from__Twitter__ and is present at this_URL_ : https://www.kaggle.com/datasets/nursyahrina/chat-sentiment-dataset .
+The DataSet  used for __Data Analysis__ here is extracted from __Twitter__ and is present at this _URL_ : https://www.kaggle.com/datasets/nursyahrina/chat-sentiment-dataset .
 
 This DataSet Contained 4 Attributes (i.e Columns):
 
@@ -53,9 +53,6 @@ This DataSet Contained 4 Attributes (i.e Columns):
     - The structure
     - Information about datatypes
     - Count of nulls in each column of DataSet
-  - Folder Name: 1. Data Info
-  - Python File: 1.1_Data _Info.py
-  - Jupyter NoteBook: 1.1_Data _Info.ipynb
 - Step 2: (Data Cleaning)
 
   - Removed the records with any null values
@@ -83,3 +80,29 @@ This DataSet Contained 4 Attributes (i.e Columns):
   - Load The Models Back (using joblib)
   - Get Input from user and convert it to model-readable format
   - Get Predictions using Both Models
+
+##### Tools Used:
+- Visual Studio Code
+- Jupyter NoteBook
+- Python Libraries
+    - Visualization: matplotlib.pyplot, seaborn
+    - Data Cleaning and Manipulation: pandas, numpy(a litle bit)
+    - Models: sklearn for encoders, scalers, and prediction models
+- git and GitHub
+
+Requirements to Run the files:
+- python 3.13.5 (Recommended) {If you are using an older version of ___Python___, this code may not run properly in some cases}
+- pandas
+- numpy
+- scikit-learn
+- warnings (Not Necessary but Recommended)
+- matplotlib
+- seaborn
+
+For Ease of Reading and Reviews:
+    - The Actual Code Files' names start with step.1_file_name.py where step is the step # same as discussed above
+    - The NoteBook Files' names start with step.2_file_name.ipynb where step is the step # same as discussed above
+    - For the same step the Actual Code File and NoteBook File just differ in their extension (i.e .py, .ipynb) and their sub_branch #, for example:
+        - Actual Code File: 1.1_Data_Info.py
+        - NoteBook File: 1.2_Data_Info.ipynb
+    - For the same step the Actual Code File and Jupyter NoteBook File are placed in the same folder whose name is the same as the title of the respective step.
