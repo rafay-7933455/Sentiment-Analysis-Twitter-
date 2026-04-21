@@ -1,6 +1,6 @@
 ##### MOTIVATION FOR CHOOSING THE DATA SCIENCE:
     
-A lot of people are inclined towards __Data Science__ these days and so am I. However, my reason is different. I am actually a___Mathematician___ by brain. In addition, I chose ___Computer Science___ as my __Profession__ which is a general field consisting of a lot of sub-emerging fields:
+A lot of people are inclined towards __Data Science__ these days and so am I. However, my reason is different. I am actually a ___Mathematician___ by brain. In addition, I chose ___Computer Science___ as my __Profession__ which is a general field consisting of a lot of sub-emerging fields:
 
 * Data Science
 * Cyber Security
